@@ -1,0 +1,10 @@
+{
+  "food": {
+    "name": "strawbeary",
+    "color": [
+      "red",
+      "white"
+    ]
+    "calories": 192
+  }
+}

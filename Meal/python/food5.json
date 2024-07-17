@@ -1,0 +1,11 @@
+{
+  "food": {
+    "name": "watermelon",
+    "color": [
+      "green&red",
+      "green&yellow"
+    ],
+    "calories": 104,
+    "number": 1
+  }
+}

@@ -3,8 +3,9 @@
     "name": "strawbeary",
     "color": [
       "red",
-      "white"
+      "white",
+      "green"
     ],
-    "calories": 192
+    "calories": 196
   }
 }
